@@ -12,7 +12,7 @@
 Respuesta
 
 ### 2. Armar el diagrama entidad-relación de la base de datos dada. 
-<img src="imágenes/helisulbaranBD02.png" alt="ejemplo_modelo-ER" style="width:500px;"/>
+<img src="Ejercicio Video club-Diagrama ER.drawio.png" alt="ejemplo_modelo-ER" style="width:500px;"/>
 
 ### 3. Armar el Modelo relacional de la base de datos dada.
 ![modelo_relacional](imágenes/modelo_relacional.png)
