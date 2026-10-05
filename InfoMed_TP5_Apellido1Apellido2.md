@@ -15,7 +15,7 @@ Respuesta
 <img src="Ejercicio Video club-Diagrama ER.drawio.png" alt="ejemplo_modelo-ER" style="width:500px;"/>
 
 ### 3. Armar el Modelo relacional de la base de datos dada.
-![modelo_relacional](imágenes/modelo_relacional.png)
+![modelo_relacional](imágenes/Ejercicio Video club-Mapeo a Modelo Relacional.drawio.png)
 
 ### 4. Considera que la base de datos está normalizada. En caso que no lo esté, ¿cómo podría hacerlo?
 
