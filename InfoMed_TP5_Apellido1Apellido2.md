@@ -12,10 +12,10 @@
 Respuesta
 
 ### 2. Armar el diagrama entidad-relación de la base de datos dada. 
-<img src="Ejercicio Video club-Diagrama ER.drawio.png" alt="ejemplo_modelo-ER" style="width:500px;"/>
+<img src="imágenes/Ejercicio%20Video%20club-Diagrama%20ER.drawio.png" alt="ejemplo_modelo-ER" width="500"/>
 
 ### 3. Armar el Modelo relacional de la base de datos dada.
-![modelo_relacional](imágenes/Ejercicio Video club-Mapeo a Modelo Relacional.drawio.png)
+![modelo_relacional](imágenes/Ejercicio%20Video%20club-Mapeo%20a%20Modelo%20Relacional.drawio.png)
 
 ### 4. Considera que la base de datos está normalizada. En caso que no lo esté, ¿cómo podría hacerlo?
 
